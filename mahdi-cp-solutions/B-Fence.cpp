@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// You can find the problem here: https://codeforces.com/contest/158/problem/B
+// You can find the problem here: https://codeforces.com/problemset/problem/363/B
 
     
     
